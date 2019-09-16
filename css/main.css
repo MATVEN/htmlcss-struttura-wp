@@ -10,6 +10,7 @@ body{
   background-repeat: no-repeat;
 }
 
+/* block1 */
 .block1{
   width: 600px;
   height: 200px;
@@ -18,4 +19,20 @@ body{
   position: absolute;
   left: 20%;
   top: 5%;
+}
+
+#background{
+  background: black;
+  height: 95%;
+  width: 95%;
+}
+/* block2 */
+.block2{
+  width: 600px;
+  height: 30px;
+  background: darkgrey;
+  clear: both;
+  position: absolute;
+  left: 20%;
+  top:41%;
 }
