@@ -9,3 +9,13 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.block1{
+  width: 600px;
+  height: 200px;
+  background: white;
+  clear: both;
+  position: absolute;
+  left: 20%;
+  top: 5%;
+}
