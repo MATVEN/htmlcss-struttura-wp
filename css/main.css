@@ -55,11 +55,7 @@
 }
 
 /* main */
-main{
-  position: absolute;
-  bottom: 0;
-  z-index: auto;
-}
+
 /* block6 */
 .block6{
   width: 600px;
