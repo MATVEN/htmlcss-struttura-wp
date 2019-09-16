@@ -44,5 +44,12 @@ body{
   width: 300px;
   height: 225px;
   background-color: yellow;
+  float: left;
+}
+
+.block5{
+  width: 125px;
+  height: 750px;
+  background-color: darkgreen;
   float: right;
 }
