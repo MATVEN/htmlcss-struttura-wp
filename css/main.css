@@ -8,6 +8,7 @@
 .container{
   width: 800px;
   height: 1200px;
+  padding: 100px;
   background-color: brown;
   box-sizing: border-box;
 }
