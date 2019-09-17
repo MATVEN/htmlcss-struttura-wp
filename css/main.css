@@ -54,6 +54,13 @@ main{
   background-color: white;
   float: left;
 }
+
+/* content widget */
+.block{
+  background-color: black;
+  height: 150px;
+  margin-bottom: 15px;
+}
 /* footer */
 footer{
   height: 100px;
